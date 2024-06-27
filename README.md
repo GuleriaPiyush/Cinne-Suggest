@@ -1,2 +1,2 @@
-# Cinne-Suggest
-A movie recommender system that suggest movies according to your taste!
+# movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
